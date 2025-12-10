@@ -12,7 +12,7 @@ export default function Eleventh(){
                 <h1 className='text-[50px] font-bold max-w-full pr-20 mr-20'>Ready to upgrade your business?</h1>
             <p className='text-[18px] leading-[100%] mr-20 pr-15 mt-15'>We make it easy to tap into 20+ years of experience – our web experts will tackle whatever you need for a successful site.</p>
             <div className='mt-5'>
-                <button className='bg-[#3174F0] text-[#FFFFFF] px-3 py-3 rounded-2xl '>Get started for free</button>
+                <button className='bg-[#3174F0] hover:bg-blue-400 text-[#FFFFFF] px-3 py-3 rounded-2xl '>Get started for free</button>
              </div>
             </div>
           <div className='grid grid-cols-2'>
